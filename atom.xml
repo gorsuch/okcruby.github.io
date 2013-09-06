@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2013-09-05T22:21:49-05:00</updated>
+  <updated>2013-09-05T22:25:47-05:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -30,24 +30,6 @@ We are also planning to have a 15 minute VPS cage match between Digital Ocean an
 <p>We have funding, location and topics lined up through the end of 2013 and we humbly ask that you come join in the learning and community building with us. We will also be providing more information as the event gets closer. If you have issues with the meeting time, topic suggestions or really anything &ndash; please let us know so we can shape our community together.</p>
 
 <p>{Jeremy, Michael, Rob}</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World!]]></title>
-    <link href="http://www.okcruby.org/blog/2013/09/05/hello-world/"/>
-    <updated>2013-09-05T21:07:00-05:00</updated>
-    <id>http://www.okcruby.org/blog/2013/09/05/hello-world</id>
-    <content type="html"><![CDATA[
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>gem install okcruby</span></code></pre></td></tr></table></div></figure>
-
-
-<p>Seriously though, welcome to okcruby.org.  This will be the place to find info about
-upcoming meetings and/or events.  We&rsquo;re aiming to have our first meeting
-in October.  We&rsquo;ll have some additional information posted here very
-soon.</p>
 ]]></content>
   </entry>
   
